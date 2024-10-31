@@ -1,7 +1,7 @@
 # Penjelasan Pengambilan Component Ionic
 ## Hendra Latieful Maajid
 ## H1D022018
-1. Kunjungi website [text](https://ionicframework.com/docs/components) 
+1. Kunjungi website [ionic component](https://ionicframework.com/docs/components) 
 2. Pilih Componen yang ingin kamu gunakan untuk saya sendiri menggunakan card dan list
 ### CARD
 ```html
