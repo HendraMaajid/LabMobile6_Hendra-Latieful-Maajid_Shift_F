@@ -40,6 +40,7 @@
 
 3. Ubah konten isiannya pada tiap komponen yang ingin ditambahkan 
 ### CARD
+Untuk Card sendiri saya menggunakan jenis media card yang dimana ada gambarnya lalu ada penjelasannya 
 ```html
 <ion-card>
     <img alt="Naruto"
@@ -56,6 +57,7 @@
 </ion-card>
 ```
 ### LIST
+Untuk list sendiri saya menambahkan beberapa content tambahan seperti ion avatar untuk menambahkan avatar lalu ion icon untuk menambahkan icon 
 ```html
 <ion-list [inset]="true">
     <ion-item>
