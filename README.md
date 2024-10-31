@@ -4,6 +4,7 @@
 1. Kunjungi website [text](https://ionicframework.com/docs/components) 
 2. Pilih Componen yang ingin kamu gunakan untuk saya sendiri menggunakan card dan list
 ### CARD
+```html
 <ion-card>
   <img alt="Silhouette of mountains" src="https://ionicframework.com/docs/img/demos/card-media.png" />
   <ion-card-header>
@@ -15,8 +16,9 @@
     Here's a small text description for the card content. Nothing more, nothing less.
   </ion-card-content>
 </ion-card>
-
+```
 ### LIST 
+```html
 <ion-list>
   <ion-item>
     <ion-label>Pokémon Yellow</ion-label>
@@ -34,6 +36,7 @@
     <ion-label>Super Mario World</ion-label>
   </ion-item>
 </ion-list>
+```
 
 3. Ubah konten isiannya pada tiap komponen yang ingin ditambahkan 
 4. Jalankan aplikasinya menggunakan ionic serve
